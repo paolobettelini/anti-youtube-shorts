@@ -1,6 +1,6 @@
-# Anti-Youtube Shortss
+# Anti-Youtube Shorts
 
-Youtube Shorts suck. No timeline. No volume bar. Cannot decide the next video.
+Automatically redirects Youtube shorts to classical page.
 
 ## Installation
 
